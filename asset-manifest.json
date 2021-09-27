@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/incubator-dashboard/static/css/main.a617e044.chunk.css",
+    "main.js": "/incubator-dashboard/static/js/main.5ea27f7e.chunk.js",
+    "main.js.map": "/incubator-dashboard/static/js/main.5ea27f7e.chunk.js.map",
+    "runtime-main.js": "/incubator-dashboard/static/js/runtime-main.081415c7.js",
+    "runtime-main.js.map": "/incubator-dashboard/static/js/runtime-main.081415c7.js.map",
+    "static/js/2.e0fc1fbd.chunk.js": "/incubator-dashboard/static/js/2.e0fc1fbd.chunk.js",
+    "static/js/2.e0fc1fbd.chunk.js.map": "/incubator-dashboard/static/js/2.e0fc1fbd.chunk.js.map",
+    "static/js/3.a0aec27d.chunk.js": "/incubator-dashboard/static/js/3.a0aec27d.chunk.js",
+    "static/js/3.a0aec27d.chunk.js.map": "/incubator-dashboard/static/js/3.a0aec27d.chunk.js.map",
+    "index.html": "/incubator-dashboard/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/incubator-dashboard/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e0fc1fbd.chunk.js.LICENSE.txt": "/incubator-dashboard/static/js/2.e0fc1fbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/incubator-dashboard/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.081415c7.js",
+    "static/js/2.e0fc1fbd.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5ea27f7e.chunk.js"
+  ]
+}
